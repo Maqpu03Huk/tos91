@@ -1,0 +1,42 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="406.11456" x2="96.49997" y1="165.11457" x1="107.49997" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="411.11456" x2="315.49997" y1="406.11456" x1="130.49997" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="167.11457" x2="280.49997" y1="162.11457" x1="102.49997" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="147.11457" x2="308.49997" y1="411.11456" x1="306.49997" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_5" y2="-39.88543" x2="78.49997" y1="-37.88543" x1="78.49997" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="98.11457" x2="40.49998" y1="-93.88542" x1="-43.50002" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_7" y2="330.11456" x2="518.49996" y1="72.11457" x1="370.49997" stroke-width="1.5" stroke="#000" fill="none"/>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g id="svg_32">
+   <g transform="matrix(0.0625,0,0,0.0625,0,0) " id="svg_29">
+    <title transform="translate(-1088,224) translate(784,1744) translate(6021.25,0) translate(0,4546.44287109375) ">background</title>
+    <rect x="5716.25" y="6513.44287" width="802" height="602" id="svg_27" fill="#fff"/>
+    <g id="svg_26" display="none">
+     <rect id="svg_30" width="800" height="600" x="5717.25" y="6514.44287" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g transform="matrix(0.0625,0,0,0.0625,0,0) " id="svg_31">
+    <title transform="translate(-1088,224) translate(784,1744) translate(6021.25,0) translate(0,4546.44287109375) ">Layer 1</title>
+    <line fill="none" stroke="#000" stroke-width="1.5" x1="5824.74997" y1="6679.55744" x2="5813.74997" y2="6920.55743" id="svg_25" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line fill="none" stroke="#000" stroke-width="1.5" x1="5847.74997" y1="6920.55743" x2="6032.74997" y2="6925.55743" id="svg_24" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line fill="none" stroke="#000" stroke-width="1.5" x1="5819.74997" y1="6676.55744" x2="5997.74997" y2="6681.55744" id="svg_23" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line fill="none" stroke="#000" stroke-width="1.5" x1="6023.74997" y1="6925.55743" x2="6025.74997" y2="6661.55744" id="svg_22" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line fill="none" stroke="#000" stroke-width="1.5" x1="5795.74997" y1="6476.55744" x2="5795.74997" y2="6474.55744" id="svg_21" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line fill="none" stroke="#000" stroke-width="1.5" x1="5673.74998" y1="6420.55745" x2="5757.74998" y2="6612.55744" id="svg_20" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line fill="none" stroke="#000" stroke-width="1.5" x1="6087.74997" y1="6586.55744" x2="6235.74996" y2="6844.55743" id="svg_19" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+   </g>
+  </g>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_33" y2="212.99998" x2="1003.49995" y1="212.99998" x1="1003.49995" opacity="0.5" stroke-width="1.5" stroke="#000" fill="none"/>
+ </g>
+</svg>
