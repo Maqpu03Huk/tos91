@@ -17,64 +17,141 @@
     </div>
 
     <div class="hero-image-wrapper">
-      <div class="hero-image">
-        <img src="../images/house2.jpg" alt="дом тоса" />
-      </div>
+      <img src="../images/house2.jpg" alt="дом тоса" />
+
     </div>
 
   </div>
 
-  <div class="members-section">
-    <div class="member">
-      <div class="left-position">
-        <img src="../images/members/one.jpg" alt="">
+
+
+  <div class="main-main">
+    <div class="members-section">
+      <div class="member">
+        <div class="left-position">
+          <img src="../images/members/one.jpg" alt="">
+        </div>
+        <div class="right-position">
+          <p>Козлова Ирина Николаевна</p>
+          <p>председатель совета ТОС</p>
+          <p>+7 (950) 123-45-97</p>
+        </div>
       </div>
-      <div class="right-position">
-        <p>Козлова Ирина Николаевна</p>
-        <p>председатель совета ТОС</p>
-        <p>+7 (950) 123-45-97</p>
+  
+      <div class="member">
+        <div class="left-position">
+          <img src="../images/members/two.jpg" alt="">
+        </div>
+        <div class="right-position">
+          <p>Козлова Ирина Николаевна</p>
+          <p>председатель совета ТОС</p>
+          <p>+7 (950) 123-45-97</p>
+        </div>
+      </div>
+  
+      <div class="member">
+        <div class="left-position">
+          <img src="../images/members/free.jpg" alt="">
+        </div>
+        <div class="right-position">
+          <p>Козлова Ирина Николаевна</p>
+          <p>председатель совета ТОС</p>
+          <p>+7 (950) 123-45-97</p>
+        </div>
+      </div>
+  
+      <div class="member">
+        <div class="left-position">
+          <img src="../images/members/one.jpg" alt="">
+        </div>
+        <div class="right-position">
+          <p>Козлова Ирина Николаевна</p>
+          <p>председатель совета ТОС</p>
+          <p>+7 (950) 123-45-97</p>
+        </div>
       </div>
     </div>
-
-    <div class="member">
-      <div class="left-position">
-        <img src="../images/members/two.jpg" alt="">
+  
+    <div class="about-section">
+      <div class="about-text-section">
+        <div class="heading">
+          <p>Наш ТОС - наша забота</p>
+        </div>
+        <div class="text">
+          <p>Территориальное общественное самоуправление (ТОС) 91
+             квартала города Ангарска — это добровольное объединение 
+             жителей, проживающих на территории нашего квартала, 
+             созданное для совместного решения вопросов местного значения.</p>
+          <p>Наша цель — сделать 91 квартал комфортным, безопасным и уютным
+             местом для жизни. Мы инициируем проекты по благоустройству, 
+             взаимодействуем с управляющей компанией и городской администрацией, 
+             проводим субботники и культурные мероприятия.</p>
+          <p>Каждый житель квартала может стать частью ТОС и
+             внести свой вклад в развитие родного микрорайона. 
+             Вместе мы можем добиться большего!.</p>
+        </div>
+        <div class="about-buttom">
+          <button>наш состав</button>
+          <button>учредительные документы</button>
+        </div>
       </div>
-      <div class="right-position">
-        <p>Козлова Ирина Николаевна</p>
-        <p>председатель совета ТОС</p>
-        <p>+7 (950) 123-45-97</p>
+      <div class="about-image-section">
+        <img src="../images/quarter.jfif" alt="">
       </div>
     </div>
-
-    <div class="member">
-      <div class="left-position">
-        <img src="../images/members/free.jpg" alt="">
-      </div>
-      <div class="right-position">
-        <p>Козлова Ирина Николаевна</p>
-        <p>председатель совета ТОС</p>
-        <p>+7 (950) 123-45-97</p>
-      </div>
-    </div>
-
-    <div class="member">
-      <div class="left-position">
-        <img src="../images/members/one.jpg" alt="">
-      </div>
-      <div class="right-position">
-        <p>Козлова Ирина Николаевна</p>
-        <p>председатель совета ТОС</p>
-        <p>+7 (950) 123-45-97</p>
+  
+    <div class="news-section">
+      <div class="news-information">
+        <div class="heading">Жизнь Тоса</div>
+        <div class="news-cards">
+          <div class="card">
+            <div class="news-images"><img src="../images/news/image1.jpg" alt=""></div>
+            <div class="news-text">
+              <div class="news-data">15 мая 2024</div>
+              <div class="news-header">Весенный субботник</div>
+              <div class="news-descriptions">Жители квартала дружно вышли 
+                на ежегодную уборку и озеленение территории. 
+                Высажено более 30 саженцев кустарников.
+              </div>
+              <div class="news-button">
+                <button>Читать полностью</button>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="news-images"><img src="../images/news/image1.jpg" alt=""></div>
+            <div class="news-text">
+              <div class="news-data">15 мая 2024</div>
+              <div class="news-header">Весенный субботник</div>
+              <div class="news-descriptions">Жители квартала дружно вышли 
+                на ежегодную уборку и озеленение территории. 
+                Высажено более 30 саженцев кустарников.
+              </div>
+              <div class="news-button">
+                <button>Читать полностью</button>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="news-images"><img src="../images/news/image1.jpg" alt=""></div>
+            <div class="news-text">
+              <div class="news-data">15 мая 2024</div>
+              <div class="news-header">Весенный субботник</div>
+              <div class="news-descriptions">Жители квартала дружно вышли 
+                на ежегодную уборку и озеленение территории. 
+                Высажено более 30 саженцев кустарников.
+              </div>
+              <div class="news-button">
+                <button>Читать полностью</button>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 
-  <div class="about-section">
-  </div>
-
-  <div class="news-section">
-  </div>
+  
 
   <div class="location-section">
   </div>
@@ -135,24 +212,64 @@
   width: 150px;
   height: 50px;
 }
+.hero-wrapper{
+  padding-left: 50px;
+}
 .hero-section {
-  display: flex;
-  gap: 20px;
-  align-items: center;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: 45% 55%;
   height: 850px;
+}
+.about-image-section img{
+  width: 700px;
+  height: 700px;
+}
+.heading{
+  font-size: 40px;
+}
+.text{
+  font-size: 24px;
+}
+.about-buttom button{
+  font-size: 27px;
+}
+.about-text-section {
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: center;
+  width: 500px;
 }
 .hero-content {
   height: 850px;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-left: 100px;
 }
+.hero-image-wrapper{
+  display: flex;
+  justify-content: end;
+}
+  /* width: 1300px;
+  height: 850px; */
+/* .about-section{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+} */
 
-.hero-image img {
-  width: 1300px;
-  height: 850px;
+.about-section {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+.hero-image-wrapper img {
+  max-width: 1300px;
+  max-height: 850px;
+
+  width: 100%;
+  height: 100%;
   object-fit: cover;
 
   /* Загиб по форме основного изображения */
@@ -180,4 +297,30 @@
     100% 100%
   );
 }
+.news-cards {
+  margin-left: 10%;
+  margin-right: 10%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+
+.news-images {
+  aspect-ratio: 16 / 9; /* или 1 / 1, 4 / 3 */
+
+}
+
+.news-images img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.main-main{
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
 </style>
